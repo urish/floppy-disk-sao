@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name badgelife)(type Legacy)(uri $(KIPRJMOD)/lib/badgelife_shitty_addon_v169bis.lib)(options "")(descr ""))
+  (lib (name badgelife)(type Legacy)(uri ${KIPRJMOD}/lib/badgelife_shitty_addon_v169bis.lib)(options "")(descr ""))
 )
