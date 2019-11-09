@@ -119,7 +119,7 @@ L Memory_EEPROM:M24C02-WMN U2
 U 1 1 5DC6A623
 P 2850 3350
 F 0 "U2" H 2850 3831 50  0000 C CNN
-F 1 "M24C02-WMN" H 2850 3740 50  0000 C CNN
+F 1 "AT24C256C" H 2850 3740 50  0000 C CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 2850 3700 50  0001 C CNN
 F 3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/b0/d8/50/40/5a/85/49/6f/DM00071904.pdf/files/DM00071904.pdf/jcr:content/translations/en.DM00071904.pdf" H 2900 2850 50  0001 C CNN
 F 4 "C6482" H 2850 3350 50  0001 C CNN "LCSC Part"
