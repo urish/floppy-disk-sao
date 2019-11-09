@@ -3,7 +3,7 @@
   (general
     (thickness 1.6)
     (drawings 17)
-    (tracks 113)
+    (tracks 112)
     (zones 0)
     (modules 13)
     (nets 11)
@@ -62,7 +62,7 @@
     (aux_axis_origin 0 0)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
-      (layerselection 0x010f0_80000001)
+      (layerselection 0x010f0_ffffffff)
       (usegerberextensions false)
       (usegerberattributes false)
       (usegerberadvancedattributes false)
@@ -85,9 +85,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "gerbers/"))
+      (outputdirectory "gerber/"))
   )
 
   (net 0 "")
@@ -883,7 +883,6 @@
   (segment (start 152.475 89.635) (end 152.475 88.365) (width 0.25) (layer B.Cu) (net 4) (status 30))
   (segment (start 141.925 87.325) (end 141.925 94.05) (width 0.25) (layer B.Cu) (net 4) (status 30))
   (segment (start 152.48 104.46) (end 153.5936 104.46) (width 0.25) (layer B.Cu) (net 4) (status 10))
-  (segment (start 153.5936 104.46) (end 153.668601 104.535001) (width 0.25) (layer B.Cu) (net 4))
   (segment (start 150.696929 108.638612) (end 146.613612 108.638612) (width 0.25) (layer B.Cu) (net 4))
   (segment (start 151.004142 108.331399) (end 150.696929 108.638612) (width 0.25) (layer B.Cu) (net 4))
   (segment (start 145.425 107.42054) (end 145.324969 107.320509) (width 0.25) (layer B.Cu) (net 4))
